@@ -14,6 +14,7 @@ But sometimes the elevator designer can make some of the common mistake. As show
 We can solve the above issues by implementating the solutions like,
 
 1.)Instead of using the negative sign, we can try to indicate the basement parking that is B1 or B2 for lower basement.
+
 2.) In case of emergency, include the emergency contact like,
 i) Customer care for Elevators
 ii) Security contact of the Building
